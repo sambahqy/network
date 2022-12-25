@@ -63,7 +63,7 @@
 
 `最初的MAC表`
 
- ![startswitch](./images/startswitch.png)
+ ![startswitch](./images/startSwitch.png)
 
 `PC0访问PC1后：`
 
