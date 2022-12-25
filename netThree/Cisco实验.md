@@ -738,7 +738,7 @@ VTP 只是给我们划分和管理 VLAN 提供了方便，由上面的测试得�
 3560(config-if)#exit
 3560(config)#ip routing    // 启用路由转发功能
 ```
-![VLANtong](./images/VLANtong.png)
+![Vlantong](./images/Vlantong.png)
 
 至此，各 VLAN 中的 PC 可以正常通信。
 
