@@ -312,7 +312,7 @@ Router#show ip route    //查看路由表
 
 至此，这些 PC 也能全部相互 ping 通！
 
-# 八.动态路由 OSPF
+## 八.动态路由 OSPF
 OSPF（Open Shortest Path First 开放式最短路径优先）是一个内部网关协议（Interior Gateway Protocol，简称 IGP）， 用于在单一自治系统（Autonomous System，AS）内决策路由。OSPF 性能优于 RIP，是当前域内路由广泛使用的路由协议。
 
 同样的，我们需要把刚才配置的 RIP 路由先清除掉。
